@@ -16,3 +16,4 @@ for x in Twodimensionlist:
         Onedimensionlist.append(y) 
 print(Onedimensionlist)
 //发给XD
+#发给QZ
